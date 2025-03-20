@@ -1,8 +1,10 @@
-# React + Vite
+# Pokemon List React
+This project is only for practice with React and Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Instalation
+```bash
+git clone https://github.com/JuIturra/pokemon-list.git
+cd pokemon-list
+npm install
+npm run dev
+```
